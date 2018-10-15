@@ -1,0 +1,168 @@
+/*common*/
+body {
+  background-color: gray;
+  line-height: 1;
+}
+
+.navigate {   
+  background-color: pink; 
+  height:150px;
+  position: fixed; 
+  margin: 25% 0% 0% 80%;
+  top: 0; 
+  width:20%; 
+} 
+
+.navigate a { 
+  display: block; 
+  color: black; 
+  text-align: center; 
+  align-content:center;
+  padding: 10px 16px;
+  text-decoration:none; 
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+}
+ 
+.navigate a:hover {
+    background-color: purple;
+}
+
+.navigate ul
+{
+  margin:0;
+  text-align:center;
+}
+
+.navigate li {
+  display: block;
+  list-style: none;
+}
+
+ .title
+{
+  text-align: center;
+  margin-top:80px;
+  margin-bottom: 50px;
+  font-family: 'Boogaloo', cursive;
+  font-size: 80px; 
+}
+
+ .title2
+{
+  text-align: center;
+  margin-top:80px;
+  margin-bottom: 50px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px; 
+}
+
+ .center
+{
+  text-align: center;
+}
+
+/*index*/
+
+ .idx_phrase 
+{
+  width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border: 10px ridge pink;
+  font-family: 'Courgette', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+ .idx_phrase2 
+{
+  width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border: 10px ridge purple;
+  font-family: 'Boogaloo', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+.idx_phrase3 
+{
+  width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border: 10px ridge pink;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+/*jazz*/
+
+ .jazz_phrase 
+{
+  width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border: 10px solid purple;
+  font-family: 'Concert One', cursive;
+  font-size: 25px;
+  text-align: center;
+}
+
+
+
+.jazz_phrase2 
+{
+  width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border: 10px dashed pink;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+/*resume*/
+
+.resume_title{
+  margin-top:80px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.address{
+  text-align:right;
+  font:20px arial;
+  margin-right:20px;
+  float:right; 
+}
+
+.education{
+  margin-left: 20px;
+  
+}
+
+.inside{
+  margin-left: 40px;
+}
+
+.inside_bottom{
+  margin-left: 40px;
+  margin-bottom : 50px;
+}
+
+.experience{
+  margin-left: 20px;
+
+}
+.ski{
+  margin-left: 20px;
+
+}
+
+.AS{
+  margin-bottom: 50px;
+}
+
