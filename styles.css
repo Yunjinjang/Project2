@@ -78,7 +78,7 @@ body {
  .idx_phrase2 
 {
   width: 60%;
-  margin: 20px 20px 20px 20px;
+  margin: auto;
   padding: 20px;
   border: 10px ridge purple;
   font-family: 'Boogaloo', cursive;
@@ -88,7 +88,7 @@ body {
 .idx_phrase3 
 {
   width: 60%;
-  margin: 20px 20px 20px 20px;
+  margin: auto;
   padding: 20px;
   border: 10px ridge pink;
   font-family: 'Philosopher', sans-serif;
